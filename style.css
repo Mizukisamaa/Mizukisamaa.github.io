@@ -47,6 +47,7 @@ body{
 }
 
 #collector{
+    z-index: -1;
     visibility: hidden ;
     width : 60%;
     height: 80%;
