@@ -95,7 +95,9 @@ function myFunction() {
 }
 function makeInvisible(){
     let loader = document.getElementById("loader")
+    let collector = document.getElementById("collector")
     loader.style.visibility = "hidden";
+    collector.style.visibility = "visible"
 }
 
 setTimeout(makeInvisible, 2000)

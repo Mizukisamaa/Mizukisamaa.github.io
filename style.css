@@ -47,6 +47,7 @@ body{
 }
 
 #collector{
+    visibility: hidden ;
     width : 60%;
     height: 80%;
     padding-top: 20px;
