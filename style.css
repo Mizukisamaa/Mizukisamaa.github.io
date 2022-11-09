@@ -15,9 +15,7 @@ body{
 
 #loader{
     width: 60%;
-    height:90%;
-
-    margin-top: 80px;
+    height: 100%;
 
     
     position: fixed;
