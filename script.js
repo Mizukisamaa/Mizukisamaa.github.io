@@ -97,6 +97,7 @@ function makeInvisible(){
     let loader = document.getElementById("loader")
     let collector = document.getElementById("collector")
     loader.style.visibility = "hidden";
+    collector.style.zIndex = 3;
     collector.style.visibility = "visible"
 }
 
